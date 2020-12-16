@@ -19,13 +19,13 @@
 #
 # Quartus II 64-Bit
 # Version 15.0.0 Build 145 04/22/2015 SJ Full Version
-# Date created = 15:46:21  October 10, 2020
+# Date created = 20:06:32  December 05, 2020
 #
 # -------------------------------------------------------------------------- #
 
 QUARTUS_VERSION = "15.0"
-DATE = "15:46:21  October 10, 2020"
+DATE = "20:06:32  December 05, 2020"
 
 # Revisions
 
-PROJECT_REVISION = "locker"
+PROJECT_REVISION = "countdown"
